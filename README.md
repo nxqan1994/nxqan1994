@@ -1,12 +1,4 @@
 ## Hi there 👋
-Day4
-Day5
-Day6
-Day7
-Day8
-Day9
-Day10
-Day 11
 Day22
 <!--
 **nxqan1994/nxqan1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
